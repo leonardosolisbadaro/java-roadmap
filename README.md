@@ -15,7 +15,7 @@ Step by step guide to becoming a Java Developer in 2022.
 ## :coffee: Road
 
 1. Fundamentals
-   - [ ] Basic Syntax
+   - [x] [Basic Syntax](fundamentals/basic-syntax)
    - [ ] DataTypes, Variables
    - [ ] Conditionals
    - [ ] Functions
@@ -30,6 +30,7 @@ Step by step guide to becoming a Java Developer in 2022.
 ## :book: Bibliography
 WEB
 - https://roadmap.sh/java
+- https://www.codecademy.com/learn/learn-java/modules/learn-java-hello-world/cheatsheet
 
 VIDEO
 - Java COMPLETO Programação Orientada a Objetos +Projetos. Online at https://www.udemy.com/course/java-curso-completo/
