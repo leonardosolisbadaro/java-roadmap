@@ -4,8 +4,6 @@
 [![GitHub license](https://img.shields.io/github/license/leonardosolisbadaro/roadmap?style=for-the-badge)](https://github.com/leonardosolisbadaro/java-roadmap/blob/main/LICENSE)
 ![GitHub watchers](https://img.shields.io/github/watchers/leonardosolisbadaro/java-roadmap?style=for-the-badge)
 
-![roadmap-java](https://user-images.githubusercontent.com/25842028/186289608-21f0b21f-3818-4d02-9ea8-81af14920b7c.png)
-
 :brazil:<br>
 Guia passo a passo para se tornar um Desenvolvedor Java em 2022.
 
@@ -14,25 +12,18 @@ Step by step guide to becoming a Java Developer in 2022.
 
 ## :coffee: Road
 
-1. Fundamentals
-   - [x] [Basic Syntax](fundamentals/basic-syntax)
-   - [ ] DataTypes, Variables
-   - [ ] Conditionals
-   - [ ] Functions
-   - [ ] Loops
-   - [ ] Exception Handling
-   - [ ] DataStructures
-   - [ ] OOP, Interfaces, Classes
-   - [ ] Packages
-   - [ ] Working with Files and APIs
+1. Names and Things
+   - [x] [Variables and Types](1NamesThings/1VariablesTypes)
+   - [x] [Expressions](1NamesThings/2Expressions)
+2. Control
    - [ ] ...
 
 ## :book: Bibliography
 WEB
 - https://roadmap.sh/java
-- https://www.codecademy.com/learn/learn-java/modules/learn-java-hello-world/cheatsheet
 
-VIDEO
+COURSES
+- Learn Java. Online at https://www.codecademy.com/learn/learn-java
 - Java COMPLETO Programação Orientada a Objetos +Projetos. Online at https://www.udemy.com/course/java-curso-completo/
 
 BOOKS
