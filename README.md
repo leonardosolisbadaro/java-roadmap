@@ -23,8 +23,8 @@ WEB
 - https://roadmap.sh/java
 
 COURSES
-- Learn Java. Online at https://www.codecademy.com/learn/learn-java
 - Java COMPLETO Programação Orientada a Objetos +Projetos. Online at https://www.udemy.com/course/java-curso-completo/
+- Learn Java. Online at https://www.codecademy.com/learn/learn-java
 
 BOOKS
 - Eck, David J. 2022. Introduction to Programming Using Java - Version 9, JavaFX Edition.
