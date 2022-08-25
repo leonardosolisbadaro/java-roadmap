@@ -13,8 +13,8 @@ Step by step guide to becoming a Java Developer in 2022.
 ## :coffee: Road
 
 1. Names and Things
-   - [x] [Variables and Types](1NamesThings/1VariablesTypes)
-   - [x] [Expressions](1NamesThings/2Expressions)
+   - [x] [Variables and Types](c1-names-things/c1.1-variables-types)
+   - [x] [Expressions](c1-names-things/c1.2-expressions)
 2. Control
    - [ ] ...
 
