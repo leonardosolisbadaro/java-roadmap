@@ -10,6 +10,30 @@ Guia passo a passo para se tornar um Desenvolvedor Java em 2022.
 :us:<br>
 Step by step guide to becoming a Java Developer in 2022.
 
+## :bookmark: Java
+
+In Java, when we compile a program, each individual class is converted into a .class file, which is known as byte code.
+
+The JVM (Java virtual machine) is used to run the byte code.
+
+![overview-fig3](https://user-images.githubusercontent.com/25842028/186732087-b2c01f39-b34b-46ee-bd31-ad8f7bc10656.jpg)
+
+## :page_facing_up: Hello Java!
+
+In Java, every application must contain a main() method, which is the entry point for the application. All other methods are invoked from the main() method.
+
+The signature of the method is public static void main(String[] args) { }. It accepts a single argument: an array of elements of type String.
+
+> System.out.println() can print to the console.
+
+```java
+public class Clazz {
+  public static void main(String[] args) {
+    System.out.println("Hello, world!");
+  }
+}
+```
+
 ## :coffee: Road
 
 1. Names and Things
