@@ -37,8 +37,9 @@ public class Clazz {
 ## :coffee: Road
 
 1. Names and Things
-   - [x] [Variables and Types](c1-names-things/c1.1-variables-types)
-   - [x] [Expressions](c1-names-things/c1.2-expressions)
+   - [x] [Variables and Types](c1_names_things/c1_1_variables_types)
+   - [x] [Expressions](c1_names_things/c1_2_expressions)
+   - [x] [Classes and Objects](c1_names_things/c1_3_oop)
 2. Control
    - [ ] ...
 
